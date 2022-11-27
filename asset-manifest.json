@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lazy-Loading-List/static/css/main.0556c624.css",
+    "main.js": "/Lazy-Loading-List/static/js/main.0c3365b1.js",
+    "index.html": "/Lazy-Loading-List/index.html",
+    "main.0556c624.css.map": "/Lazy-Loading-List/static/css/main.0556c624.css.map",
+    "main.0c3365b1.js.map": "/Lazy-Loading-List/static/js/main.0c3365b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0556c624.css",
+    "static/js/main.0c3365b1.js"
+  ]
+}
